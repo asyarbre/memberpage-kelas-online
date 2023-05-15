@@ -1,9 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
+import './assets/css/style.css';
 
 function App() {
   return (
-    <h1 className="text-3xl font-bold underline text-blue-400">
+    <h1 className="text-3xl font-bold underline text-lime-500 mx-24 mt-10">
       Hello world!
     </h1>
   );
